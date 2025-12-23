@@ -1,24 +1,13 @@
-# Hi there, I'm Pushpit 👋
+# Hi there! 👋
 
-I'm a university student passionate about coding and exploring new technologies.  
+I'm **Pushpit**,a university student building clean, efficient software.
+I'm a passionate about exploring new technologies.  
 I love turning ideas into real projects and learning something new every day!  
 
----
+My main tech stack is Java, Android, and Backend APIs.
+I’m constantly learning new patterns and improving my problem-solving skills.
 
-## 🔭 What I do
-- 💻 **Java Developer** – building clean and efficient solutions  
-- 🤖 **Android Development** – exploring apps and mobile experiences  
-- 🌐 **Backend** – creating solid APIs and server-side logic  
-- 🌟 **Open Source Contributor** – love giving back to the community  
-
----
-
-## 🌱 Currently Learning
-- Advanced Android development  
-- Modern backend frameworks  
-- Improving my problem-solving skills  
-
----
-
-## ⚡ Fun fact
-Coffee ☕, Code 💻, and Curiosity 🚀 keep me going every day!  
+⚡Fun Facts:
+* **Hobbies:** Gym, Reading, and building stuff.
+* **Superpower:** Professional overthinker.
+* **Current Status:** Debugging code and questioning reality.
