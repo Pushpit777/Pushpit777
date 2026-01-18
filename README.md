@@ -4,7 +4,7 @@ I'm **Pushpit**,a university student building clean, efficient software.
 I'm a passionate about exploring new technologies.  
 I love turning ideas into real projects and learning something new every day!  
 
-My main tech stack is Java, Android, and Backend APIs.
+My current focus is Core Java, basic Android concepts, and learning backend fundamentals.
 
 I’m constantly learning new patterns and improving my problem-solving skills.
 
